@@ -1,0 +1,8 @@
+{
+  "users": [
+    { "username": "admin", "password": "1234" },
+    { "username": "luffy", "password": "onepiece" },
+    { "username": "zoro", "password": "santoryu" },
+    { "username": "nami", "password": "mapqueen" }
+  ]
+}
